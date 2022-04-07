@@ -1,0 +1,11 @@
+1. Explain what terminal is in your own words.
+	- A terminal allows to code on a computer without any GUI. 
+
+2. What is the major difference between Git and Github?
+	- Git is a version control software used for tracking changes and helping members work together on a project. It's like a memory card specifically for your computer. Github on the other hand, is a website used for others to view the code you made with Git.
+
+3. Why do we use Github?
+	- We use Github for better project management. This website allows others to view codes from the terminal through the repository.
+
+
+- Micah Norrington
